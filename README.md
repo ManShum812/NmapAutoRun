@@ -1,5 +1,5 @@
 # Sublist3r-Running-Multiple-URL
-Take a list of domains and run with dirsearch
+Take a list of domains and run with sublist3r
 
 # Install
 git clone https://github.com/ManShum815/Sublist3r-Running-Multiple-URL or just copy my script here
