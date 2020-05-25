@@ -1,12 +1,10 @@
-# Sublist3r-Running-Multiple-URL
+# Nmap-Running-Multiple-URL
 Take a list of domains and run with sublist3r
 
 # Install
-git clone https://github.com/ManShum815/Sublist3r-Running-Multiple-URL or just copy my script here
+git clone https://github.com/ManShum815/Nmap-Running-Multiple-URL or just copy my script here
 
 # Setup 
-Copy auto.sh and paste that in your sublist3r folder
-
 chmod +x auto.sh
 
 ./auto.sh
