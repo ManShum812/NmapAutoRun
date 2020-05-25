@@ -1,4 +1,4 @@
-# Dirsearch-Running-Multiple-URL
+# Sublist3r-Running-Multiple-URL
 Take a list of domains and run with dirsearch
 
 # Install
