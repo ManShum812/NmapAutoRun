@@ -10,4 +10,4 @@ chmod +x auto.sh
 ./auto.sh
 
 # How to use
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/43279996/82828675-7715ed80-9e66-11ea-8c85-36ee15bc290a.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/43279996/82834548-53f33a00-9e76-11ea-811d-be24627639e9.gif)
