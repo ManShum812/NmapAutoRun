@@ -1,3 +1,3 @@
 * linguist-vendored
 shell linguist-vendored=false
-*.sh linguist-vendored=true
+Go linguist-vendored=true
