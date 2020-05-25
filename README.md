@@ -2,10 +2,10 @@
 Take a list of domains and run with dirsearch
 
 # Install
-git clone https://github.com/ManShum815/Dirsearch-Running-Multiple-URL or just copy my script here
+git clone https://github.com/ManShum815/Sublist3r-Running-Multiple-URL or just copy my script here
 
 # Setup 
-Copy auto.sh and paste that in your dirsearch folder
+Copy auto.sh and paste that in your sublist3r folder
 
 chmod +x auto.sh
 
