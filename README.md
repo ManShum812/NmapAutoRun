@@ -1,5 +1,5 @@
 # Nmap-Running-Multiple-URL
-Take a list of domains and run with nmap
+Take a list of domains and run them with Nmap
 
 # Install
 git clone https://github.com/ManShum815/Nmap-Running-Multiple-URL or just copy my script here
